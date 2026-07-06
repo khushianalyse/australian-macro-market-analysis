@@ -10,14 +10,17 @@ As an international student currently pursuing a Master of Information Technolog
 I built this small project to get hands-on experience with financial data and to observe how key economic indicators in Australia move over time, and whether there are any simple relationships between them.
 
 **Purpose**
+
 I wanted to get more comfortable working with real financial data, and also build a better intuition for how markets and macroeconomic factors interact in the real world.
 This was more about learning and exploration than building anything complex.
 
 **Data used**
+
 Yahoo Finance (for ASX 200 and AUD/USD data)
 Basic interest rate dataset (simplified for analysis)
 
 **Tools/Resources**
+
 1. Python
 2. Pandas
 3. NumPy
@@ -32,21 +35,25 @@ AUD/USD exchange rate
 Interest rate movements
 
 **What I did**
+
 - Pulled financial data using Python
 - Cleaned and organised time-series datasets
 - Plotted trends to visually understand movements
 - Compared how different indicators move over time
 
 **Observations**
+
 -The ASX 200 generally reflects broader economic cycles
 -Interest rate changes often align with shifts in market behaviour
 -AUD/USD tends to react to global market sentiment and risk conditions
 
 **Key learnings**
+
 - How to work with real-world financial datasets in Python
 - How to clean and structure time-series data
 - How visualisation helps make sense of complex data quickly
 
   
 **Final Note:** 
+
 This is a beginner-level exploratory project, not a predictive model or financial forecasting tool. It’s mainly focused on learning and understanding patterns in financial data. This was a learning project built while exploring financial data analysis using Python.
