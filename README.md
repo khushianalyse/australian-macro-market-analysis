@@ -43,9 +43,9 @@ Interest rate movements
 
 **Observations**
 
--The ASX 200 generally reflects broader economic cycles
--Interest rate changes often align with shifts in market behaviour
--AUD/USD tends to react to global market sentiment and risk conditions
+1. The ASX 200 generally reflects broader economic cycles
+2. Interest rate changes often align with shifts in market behaviour
+3. AUD/USD tends to react to global market sentiment and risk conditions
 
 **Key learnings**
 
@@ -53,7 +53,21 @@ Interest rate movements
 - How to clean and structure time-series data
 - How visualisation helps make sense of complex data quickly
 
-  
+
+**Visuals**
+
+### ASX 200 Index
+![ASX 200](screenshots/ASX%20-%20200%20INDEX.png)
+
+### Exchange Rate (AUD/USD)
+![Exchange Rate](screenshots/Exchange%20Rate.png)
+
+### Interest Rates
+![Interest Rates](screenshots/interest%20rates.png)
+
+
 **Final Note:** 
 
 This is a beginner-level exploratory project, not a predictive model or financial forecasting tool. It’s mainly focused on learning and understanding patterns in financial data. This was a learning project built while exploring financial data analysis using Python.
+
+
